@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite
+*.duckdb
+
+# Data (raw datasets)
+data/raw/
+data/processed/
+
+# Streamlit
+.streamlit/
+
+# Cache
+.pytest_cache/
+.cache/
