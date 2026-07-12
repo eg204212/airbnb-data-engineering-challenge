@@ -1,46 +1,17 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual Environment
 .venv/
-venv/
-env/
 
-# Jupyter
+__pycache__/
+
 .ipynb_checkpoints/
 
-# VS Code
-.vscode/
+logs/
 
-# OS
-.DS_Store
-Thumbs.db
+*.pyc
 
-# Logs
-*.log
+database/*.duckdb
 
-# Environment Variables
-.env
-
-# Python build
-build/
-dist/
-*.egg-info/
-
-# Database
-*.db
-*.sqlite
-*.duckdb
-
-# Data (raw datasets)
 data/raw/
-data/processed/
 
-# Streamlit
-.streamlit/
+data/raw/extracted/
 
-# Cache
-.pytest_cache/
-.cache/
+.env
