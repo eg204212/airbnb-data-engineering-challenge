@@ -419,8 +419,8 @@ Features:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_1.png)
-![Dashboard](screenshots/dashboard_2.png)
+![Dashboard](screenshots/dashboard__1.png)
+![Dashboard](screenshots/dashboard__2.png)
 
 ---
 
