@@ -41,42 +41,6 @@ The main objectives of this project are:
 ![Architecture Diagram](images/architecture.png)
 
 
-The complete workflow:
-
-```
-Airbnb Raw Dataset
-        |
-        |
-        v
-Data Ingestion Pipeline
-        |
-        |
-        v
-Data Validation Layer
-        |
-        |
-        v
-Data Cleaning & Transformation
-        |
-        |
-        v
-Processed Analytical Dataset
-        |
-        |
-        v
-DuckDB Data Warehouse
-        |
-        |
-        +----------------+
-        |                |
-        v                v
- SQL Analytics     Streamlit Dashboard
-        |
-        |
-        v
-Business Insights
-```
-
 ---
 
 # Technology Stack
@@ -455,8 +419,8 @@ Features:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
-
+![Dashboard](screenshots/dashboard_1.png)
+![Dashboard](screenshots/dashboard_2.png)
 
 ---
 
@@ -551,22 +515,6 @@ Potential improvements:
 
 ---
 
-# Author
-
-**[YOUR NAME]**
-
-Computer Engineering Graduate
-
-Interested in:
-
-- Data Engineering
-- Artificial Intelligence
-- Machine Learning
-- Analytics Engineering
-
-
----
-
 # License
 
-This project is licensed under the MIT License.
+MIT License.
