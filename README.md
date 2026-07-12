@@ -420,6 +420,7 @@ Features:
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard__1.png)
+
 ![Dashboard](screenshots/dashboard__2.png)
 
 ---
